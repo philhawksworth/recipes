@@ -1,4 +1,6 @@
-Gnocchi al forna with Parmesan and asparagus 
+# Gnocchi al forna with Parmesan and asparagus 
+
+## ingredients
 
 - 1 pack of plain gnocchi
 - 1 pint of whole milk
@@ -7,7 +9,7 @@ Gnocchi al forna with Parmesan and asparagus
 - 1 handful of asparagus
 
 
-# Method
+## Method
 
 1. Blitz 10 of the gnocchi with the milk and permasan
 1. Pour the mixture over the remaining gnocchi in a pan
